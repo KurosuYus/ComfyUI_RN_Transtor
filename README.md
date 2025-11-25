@@ -25,13 +25,16 @@
 ### 基本配置
 
 1. **apiBaseUrl**: 输入 API 服务商提供的基础 URL
+   - 环境已默认配置
    - OpenAI: `https://api.openai.com/v1`
    - DeepSeek: `https://api.deepseek.com/v1`
    - 其他服务商请查看对应文档
 
 2. **apiKey**: 输入您的 API 密钥
+   - 环境已默认配置
 
 3. **model**: 输入要使用的具体模型名称
+   - 环境已默认配置
   - OpenAI: `gpt-4o-mini`（默认回退）、`gpt-4o` 等
   - DeepSeek: `deepseek-chat`
   - 其他模型请查看对应文档

@@ -16,13 +16,13 @@
       "inputs": [],
       "widgets_values": [
         "Hello, how are you today?\nI'm fine, thank you!",
-        "英文",
+        "自动检测",
         "中文",
         "标准",
         0.3,
-        "https://api.openai.com/v1",
         "",
-        "gpt-4o-mini"
+        "",
+        ""
       ]
     },
     {

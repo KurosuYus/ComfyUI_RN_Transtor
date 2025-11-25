@@ -20,9 +20,9 @@ class RN_Translator_Node():
             },
             "optional": {
                 "input_text": ("STRING", {"forceInput": True}),
-                "apiBaseUrl": ("STRING", {"default": ""}),
-                "apiKey": ("STRING", {"default": ""}),
-                "model": ("STRING", {"default": ""}),
+                "apiBaseUrl": ("STRING", {"default": "default"}),
+                "apiKey": ("STRING", {"default": "default"}),
+                "model": ("STRING", {"default": "default"}),
             }
         }
 
