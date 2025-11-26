@@ -1,4 +1,4 @@
-# ComfyUI_RN_Transtor
+# ComfyUI_RN_Translator
 
 **RN 翻译器 - 基于大模型 API 的专业翻译插件**
 
